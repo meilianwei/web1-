@@ -1,0 +1,18 @@
+body{margin:0px;padding:0px;}
+.menu ul{width:1000px;
+    height:60px;
+    background:url(../images/menu_bg.png) no-repeat;}
+.menu li{list-style:none;
+    float: left;
+    width:150px;
+    height:auto;
+    background:url(../images/line.png) no-repeat center right;
+    text-align:center;}
+.menu a{display:block;
+    color:#111;
+    text-decoration: none;
+    line-height:60px;
+    position:relative;
+    left:-18px;}
+.menu a:hover{background:url(../images/menu_bg1.png) no-repeat center center;
+    color:#eee}
